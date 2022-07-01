@@ -62,3 +62,9 @@ Technologies used : Next.js
 
 The back(API) of a market place from buying snacks
 Technologies used : Express, MYSQL
+
+### Contact Me
+
+Email : hugo.antoine@viacesi.fr
+Phone number : +336 09 74 02 89
+My resume : (Link)[https://drive.google.com/file/d/1HcXTUIrM9WulObUvnw9k22StxsAQ7LJq/view?usp=sharing]
