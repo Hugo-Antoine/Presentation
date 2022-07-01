@@ -67,4 +67,4 @@ Technologies used : Express, MYSQL
 
 Email : hugo.antoine@viacesi.fr
 Phone number : +336 09 74 02 89
-My resume : (Link)[https://drive.google.com/file/d/1HcXTUIrM9WulObUvnw9k22StxsAQ7LJq/view?usp=sharing]
+My resume : [Link](https://drive.google.com/file/d/1HcXTUIrM9WulObUvnw9k22StxsAQ7LJq/view?usp=sharing)
